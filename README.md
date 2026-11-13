@@ -19,7 +19,7 @@ Liming Zhao<sup>2‡</sup> · Yan Zeng<sup>2</sup> · Jianwei Zhang<sup>5§</sup
 
 [![Project Page](https://img.shields.io/badge/Project-Page-2ea44f?logo=googlechrome&logoColor=white)](https://chenyx24.github.io/PhysLoop-site/) [![Discord](https://img.shields.io/badge/Join-Discord-5865f2?logo=discord&logoColor=white)](https://discord.gg/uS7vgwG6sU)
 
-arXiv (forthcoming)
+[arXiv:2611.16748](https://arxiv.org/abs/2611.16748)
 
 </div>
 
@@ -35,7 +35,7 @@ The code release is pending company policy review.
 
 ## Todo List
 
-- [ ] arXiv announcement.
+- [x] Paper available on [arXiv](https://arxiv.org/abs/2611.16748).
 - [ ] Reproduction package.
 - [ ] PhysLoop-Gen and PhysLoop-Repair evaluation datasets.
 - [ ] PhysLoop-100K training data.
@@ -107,7 +107,11 @@ docs/      Setup, usage and release documentation
             Zeng, Yan and
             Zhang, Jianwei and
             Zhou, Daquan},
-  year = {2026}
+  year = {2026},
+  eprint = {2611.16748},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url = {https://arxiv.org/abs/2611.16748}
 }
 ```
 
